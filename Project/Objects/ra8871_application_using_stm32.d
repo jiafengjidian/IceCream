@@ -1,0 +1,11 @@
+.\objects\ra8871_application_using_stm32.o: ..\User\RA8871Kernel\RA8871_Application_Using_STM32.c
+.\objects\ra8871_application_using_stm32.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ra8871_application_using_stm32.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ra8871_application_using_stm32.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ra8871_application_using_stm32.o: ..\CMSIS\stm32f4xx.h
+.\objects\ra8871_application_using_stm32.o: ..\CMSIS\core_cm4.h
+.\objects\ra8871_application_using_stm32.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ra8871_application_using_stm32.o: ..\CMSIS\core_cmInstr.h
+.\objects\ra8871_application_using_stm32.o: ..\CMSIS\core_cmFunc.h
+.\objects\ra8871_application_using_stm32.o: ..\CMSIS\core_cmSimd.h
+.\objects\ra8871_application_using_stm32.o: ..\CMSIS\system_stm32f4xx.h

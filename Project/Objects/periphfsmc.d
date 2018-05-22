@@ -1,0 +1,9 @@
+.\objects\periphfsmc.o: ..\User\Periph\PeriphFsmc.c
+.\objects\periphfsmc.o: ..\User\Periph/PeriphFsmc.h
+.\objects\periphfsmc.o: ..\CMSIS\stm32f4xx.h
+.\objects\periphfsmc.o: ..\CMSIS\core_cm4.h
+.\objects\periphfsmc.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\periphfsmc.o: ..\CMSIS\core_cmInstr.h
+.\objects\periphfsmc.o: ..\CMSIS\core_cmFunc.h
+.\objects\periphfsmc.o: ..\CMSIS\core_cmSimd.h
+.\objects\periphfsmc.o: ..\CMSIS\system_stm32f4xx.h

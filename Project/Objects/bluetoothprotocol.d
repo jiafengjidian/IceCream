@@ -1,0 +1,11 @@
+.\objects\bluetoothprotocol.o: ..\User\BluetoothProtocol.c
+.\objects\bluetoothprotocol.o: ..\User\BluetoothProtocol.h
+.\objects\bluetoothprotocol.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bluetoothprotocol.o: ..\User\Device/DeviceBluetooth.h
+.\objects\bluetoothprotocol.o: ..\User\SysTimer.h
+.\objects\bluetoothprotocol.o: ..\CMSIS\stm32f4xx.h
+.\objects\bluetoothprotocol.o: ..\CMSIS\core_cm4.h
+.\objects\bluetoothprotocol.o: ..\CMSIS\core_cmInstr.h
+.\objects\bluetoothprotocol.o: ..\CMSIS\core_cmFunc.h
+.\objects\bluetoothprotocol.o: ..\CMSIS\core_cmSimd.h
+.\objects\bluetoothprotocol.o: ..\CMSIS\system_stm32f4xx.h

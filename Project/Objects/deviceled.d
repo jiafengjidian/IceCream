@@ -1,0 +1,9 @@
+.\objects\deviceled.o: ..\User\Device\DeviceLed.c
+.\objects\deviceled.o: ..\User\Device/DeviceLed.h
+.\objects\deviceled.o: ..\CMSIS\stm32f4xx.h
+.\objects\deviceled.o: ..\CMSIS\core_cm4.h
+.\objects\deviceled.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\deviceled.o: ..\CMSIS\core_cmInstr.h
+.\objects\deviceled.o: ..\CMSIS\core_cmFunc.h
+.\objects\deviceled.o: ..\CMSIS\core_cmSimd.h
+.\objects\deviceled.o: ..\CMSIS\system_stm32f4xx.h

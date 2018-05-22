@@ -1,0 +1,9 @@
+.\objects\periphtimer.o: ..\User\Periph\PeriphTimer.c
+.\objects\periphtimer.o: ..\User\Periph/PeriphTimer.h
+.\objects\periphtimer.o: ..\CMSIS\stm32f4xx.h
+.\objects\periphtimer.o: ..\CMSIS\core_cm4.h
+.\objects\periphtimer.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\periphtimer.o: ..\CMSIS\core_cmInstr.h
+.\objects\periphtimer.o: ..\CMSIS\core_cmFunc.h
+.\objects\periphtimer.o: ..\CMSIS\core_cmSimd.h
+.\objects\periphtimer.o: ..\CMSIS\system_stm32f4xx.h

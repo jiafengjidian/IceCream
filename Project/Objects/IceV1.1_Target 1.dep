@@ -1,0 +1,18 @@
+Dependencies for Project 'IceV1.1', Target 'Target 1': (DO NOT MODIFY !)
+F (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Library\ARM\RTX_CM4F.lib)(0x58984990)()
+F (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Source\rtx_lib.c)(0x58984992)(--c99 -c --cpu Cortex-M4.fp -g -O3 --apcs=interwork --split_sections -I ..\CMSIS-I.\RTE\CMSIS-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx-o .\objects\rtx_lib.o --omf_browse .\objects\rtx_lib.crf --depend .\objects\rtx_lib.d)
+I (..\CMSIS\cmsis_compiler.h)(0x5898498A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\cmsis_armcc.h)(0x5898498A)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x58984990)
+I (D:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x57F606B8)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h)(0x58984990)
+I (.\RTE\CMSIS\RTX_Config.h)(0x58984990)
+F (RTE\CMSIS\RTX_Config.c)(0x58984990)(--c99 -c --cpu Cortex-M4.fp -g -O3 --apcs=interwork --split_sections -I ..\CMSIS-I.\RTE\CMSIS-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include-ID:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include-ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -D_RTE_ -DSTM32F407xx-o .\objects\rtx_config.o --omf_browse .\objects\rtx_config.crf --depend .\objects\rtx_config.d)
+I (..\CMSIS\cmsis_compiler.h)(0x5898498A)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (..\CMSIS\cmsis_armcc.h)(0x5898498A)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h)(0x58984990)
+I (D:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x57F606B8)
+I (D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h)(0x58984990)
+F (RTE\CMSIS\RTX_Config.h)(0x58984990)()

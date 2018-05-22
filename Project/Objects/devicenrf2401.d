@@ -1,0 +1,9 @@
+.\objects\devicenrf2401.o: ..\User\Device\DeviceNrf2401.c
+.\objects\devicenrf2401.o: ..\User\Device/DeviceNrf2401.h
+.\objects\devicenrf2401.o: ..\CMSIS\stm32f4xx.h
+.\objects\devicenrf2401.o: ..\CMSIS\core_cm4.h
+.\objects\devicenrf2401.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\devicenrf2401.o: ..\CMSIS\core_cmInstr.h
+.\objects\devicenrf2401.o: ..\CMSIS\core_cmFunc.h
+.\objects\devicenrf2401.o: ..\CMSIS\core_cmSimd.h
+.\objects\devicenrf2401.o: ..\CMSIS\system_stm32f4xx.h

@@ -1,0 +1,10 @@
+.\objects\devicemoto.o: ..\User\Device\DeviceMoto.c
+.\objects\devicemoto.o: ..\User\Device/DeviceMoto.h
+.\objects\devicemoto.o: ..\User\Periph/PeriphTimer.h
+.\objects\devicemoto.o: ..\CMSIS\stm32f4xx.h
+.\objects\devicemoto.o: ..\CMSIS\core_cm4.h
+.\objects\devicemoto.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\devicemoto.o: ..\CMSIS\core_cmInstr.h
+.\objects\devicemoto.o: ..\CMSIS\core_cmFunc.h
+.\objects\devicemoto.o: ..\CMSIS\core_cmSimd.h
+.\objects\devicemoto.o: ..\CMSIS\system_stm32f4xx.h

@@ -1,0 +1,9 @@
+.\objects\device74hc165.o: ..\User\Device\Device74HC165.c
+.\objects\device74hc165.o: ..\User\Device/Device74HC165.h
+.\objects\device74hc165.o: ..\CMSIS\stm32f4xx.h
+.\objects\device74hc165.o: ..\CMSIS\core_cm4.h
+.\objects\device74hc165.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\device74hc165.o: ..\CMSIS\core_cmInstr.h
+.\objects\device74hc165.o: ..\CMSIS\core_cmFunc.h
+.\objects\device74hc165.o: ..\CMSIS\core_cmSimd.h
+.\objects\device74hc165.o: ..\CMSIS\system_stm32f4xx.h
